@@ -4,6 +4,8 @@
 ## Project Overview
 In this project, we'll be building a complex web application with a frontend developed in React.js and a backend developed in Node.js. The frontend will display a line chart representing the relationship between profit percentage and time, while the backend will provide APIs for fetching and downsampling the data.
 
+## Project Live: [Click Here](tinyurl.com/34fsyk8u)
+
 ## Frontend Development
 
 ### 1: Set Up the Frontend
@@ -92,3 +94,7 @@ Open your web browser and go to http://localhost:3000 to see the application in 
 You have now successfully developed a dashboard web application with a dynamic line chart and a backend server serving the required data. This guide provides a high-level overview of the steps involved in creating the project.
 
 Feel free to explore and enhance the application further based on your needs. If you have any questions or encounter issues, refer to the detailed steps in each section or seek assistance from the developer community.
+
+### 6. UI Screenshot
+![UI Screenshot](https://drive.google.com/uc?export=view&id=1xaRa7rXeifZHdyb8WYgnlX9jxaulL8xO)
+
