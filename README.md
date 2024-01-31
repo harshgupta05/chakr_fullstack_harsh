@@ -4,7 +4,7 @@
 ## Project Overview
 In this project, we'll be building a complex web application with a frontend developed in React.js and a backend developed in Node.js. The frontend will display a line chart representing the relationship between profit percentage and time, while the backend will provide APIs for fetching and downsampling the data.
 
-## Project Live: [Click Here](tinyurl.com/34fsyk8u)
+## Project Live: [Click Here](https://tinyurl.com/34fsyk8u)
 
 ## Frontend Development
 
